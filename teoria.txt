@@ -1,0 +1,18 @@
+Un sistema de control de versiones hacer tracking de los cambios en los archivos de tu pc 
+
+    Control de versiones distribuido 
+    Coordina el trabajo entre multiples desarrolladores 
+    Muestra quien, que y cuando hace un cambio 
+    Se puede volver hacia atras cuando lo desees 
+    Se pueden usar repositorios locales y remotos 
+
+Comando basicos 
+    git init - inicializar un repositorio
+    git add <file> - enviar al staging area  
+    git status - ver el estado de los archivos 
+    git commit - enviar al repository
+    git push - subir a un repositorio remoto 
+    git pull - trae cambios de otros desarrolladores
+    git clone - clonar un proyecto 
+
+    working directory -> staging area -> repository 
