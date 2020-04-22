@@ -14,5 +14,8 @@ Comando basicos
     git push - subir a un repositorio remoto 
     git pull - trae cambios de otros desarrolladores
     git clone - clonar un proyecto 
+    git log - ver historial de commits
+    git checkout -- nombre_file - revertir cambios en nombre_file 
+    git diff nopmbre_file - ver cambios entre versiones de file 
 
     working directory -> staging area -> repository 
